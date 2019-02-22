@@ -1,0 +1,28 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "Buscar e armazenar os dados de eventos da wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caiquevlm/web-scrapping.git"
+  },
+  "keywords": [
+    "crawler",
+    "node",
+    "nodejs",
+    "web-scrapping"
+  ],
+  "author": "caique.matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caiquevlm/web-scrapping/issues"
+  },
+  "homepage": "https://github.com/Caiquevlm/web-scrapping#readme",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
